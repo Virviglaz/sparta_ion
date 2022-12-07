@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=mmu_top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=mmu_top.SchDoc|Designator=amp|SchDesignator=amp|FileName=strain_amp.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=strain_amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mmu_top.SchDoc|Designator=mcu|SchDesignator=mcu|FileName=mcu.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=mmu_top.SchDoc|Designator=U_MPU6050|SchDesignator=U_MPU6050|FileName=MPU6050.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=MPU6050|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
