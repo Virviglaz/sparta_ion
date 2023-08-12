@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=mmu_pcb_v1.1.PcbDoc
+DocumentPath=mmu_pcb_v1.2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -63,7 +63,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=IOSUPJRX
+DocumentUniqueId=MMHWMTJG
 
 [Document2]
 DocumentPath=mmu_top.SchDoc
@@ -150,9 +150,19 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRSXSFKO
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for BLDC_ctrl\Design Rule Check - mmu_pcb_v1.html
-DItemRevisionGUID=
+[DeviceSheet1]
+DocumentPath=..\..\..\..\..\..\altium\DeviceSheets\MPU6050.SchDoc
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+GenerateClassCluster=0
+
+[DeviceSheet2]
+DocumentPath=..\..\..\..\..\..\altium\DeviceSheets\MPU6050.Harness
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+GenerateClassCluster=0
 
 [Configuration1]
 Name=Sources
@@ -1128,11 +1138,11 @@ MatchStrictly2=1
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\MABWIFLR
-DocumentName0=strain_amp.SchDoc
+UniqueIDPath0=\ZWWBCKHL
+DocumentName0=mcu.SchDoc
 IsEnabled0=1
 SelectionScope0=All
-Order0=5
+Order0=3
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
@@ -1152,11 +1162,11 @@ Order2=4
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\ZWWBCKHL
-DocumentName3=mcu.SchDoc
+UniqueIDPath3=\MABWIFLR
+DocumentName3=strain_amp.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=3
+Order3=5
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=

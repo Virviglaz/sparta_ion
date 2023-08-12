@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=BLDC_ctrl\BLDC_ctrl.PrjPcb
+[Project2]
+ProjectPath=BATT_ctrl\BATT_ctrl.PrjPcb
+[Project3]
+ProjectPath=..\..\..\universal_bms\HW\ubms2\ubms.PrjPcb
+[Project4]
+ProjectPath=BATT_ctrl_v2\BATT_ctrl2.PrjPcb
+[Project5]
+ProjectPath=..\..\..\esp32_isoprog\esp32_isoprog.PrjPcb
+[Project6]
+ProjectPath=..\..\..\WM210E\HW\WM210E_HW\WM210E_HW.PrjPcb

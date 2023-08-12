@@ -15,7 +15,5 @@
 *.zip
 ion2/HW/BATT_ctrl/Project*
 ion2/HW/BLDC_ctrl/Project*
-ion2/HW/BATT_ctrl/Gerbers
-ion2/HW/BLDC_ctrl/Gerber
-ion2/HW/BATT_ctrl/__*
-ion2/HW/BLDC_ctrl/__*
+Gerbers/
+__*/

@@ -272,7 +272,7 @@ DocumentUniqueId=
 [DeviceSheet1]
 DocumentPath=..\..\..\..\..\..\..\..\altium\DeviceSheets\ESP32_WROOM2.SchDoc
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
