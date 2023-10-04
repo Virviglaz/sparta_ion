@@ -184,51 +184,141 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=indication.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WTADTZKB
+
+[Document10]
+DocumentPath=Gerbers\CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 12-35-44.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 13-01-36.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 13-02-19.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 13-20-55.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 16-46-12.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 16-46-27.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 17-30-44.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 18-05-11.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GM
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 18-05-25.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=batt_ctrl_pcb_v2.1 05.09.2023 10-06-34.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=batt_ctrl_pcb_v2.1 05.09.2023 12-59-14.WAS
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 12-35-44.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 13-01-36.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 13-02-19.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 13-20-55.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 16-46-12.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 16-46-27.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 17-30-44.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 18-05-11.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=batt_ctrl_pcb_v2.1 03.09.2023 18-05-25.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=batt_ctrl_pcb_v2.1 05.09.2023 10-06-34.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=batt_ctrl_pcb_v2.1 05.09.2023 12-59-14.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
 DocumentPath=Project Outputs for BATT_ctrl_v2.1\Design Rule Check - batt_ctrl_pcb_v2.html
 DItemRevisionGUID=
 
@@ -583,7 +673,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\pasha\Documents\Embedded\sparta_ion\ion2\HW\BATT_ctrl_v2\batt_ctrl_pcb_v2.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=D:\Users\Pavel\Documents\Embedded\sparta_ion\ion2\HW\BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -608,7 +698,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=JLAUMCRN|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName=batt_ctrl_pcb_v2.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=batt_ctrl_pcb_v2.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=batt_ctrl_pcb_v2.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=batt_ctrl_pcb_v2.GBO|UserLayerName.Caption1=batt_ctrl_pcb_v2.GTP|UserLayerName.Caption10=batt_ctrl_pcb_v2.GM1|UserLayerName.Caption11=batt_ctrl_pcb_v2.GBL|UserLayerName.Caption12=batt_ctrl_pcb_v2.GM8|UserLayerName.Caption13=batt_ctrl_pcb_v2.GM15|UserLayerName.Caption14=batt_ctrl_pcb_v2.GTL|UserLayerName.Caption15=batt_ctrl_pcb_v2.GBP|UserLayerName.Caption2=batt_ctrl_pcb_v2.GTO|UserLayerName.Caption3=batt_ctrl_pcb_v2.GTS|UserLayerName.Caption4=batt_ctrl_pcb_v2.GM13|UserLayerName.Caption5=batt_ctrl_pcb_v2.GM2|UserLayerName.Caption6=batt_ctrl_pcb_v2.GKO|UserLayerName.Caption7=batt_ctrl_pcb_v2.GPT|UserLayerName.Caption8=batt_ctrl_pcb_v2.GPB|UserLayerName.Caption9=batt_ctrl_pcb_v2.GBS|UserLayerName.Count=16|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908289|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908296|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973837|UserLayerName.Layer7=16973848|UserLayerName.Layer8=16973849|UserLayerName.Layer9=16973835|DocumentPath=C:\Users\pasha\Documents\Embedded\sparta_ion\ion2\HW\BATT_ctrl_v2\batt_ctrl_pcb_v2.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=JLAUMCRN|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=False|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16973833~1|PlotBoardProfile=True|PlotBoardProfileFileName=batt_ctrl_pcb_v2.1.GM|PlotDrillDrawingLayerPair0_Backdrill=False|PlotDrillDrawingLayerPair0_Checked=True|PlotDrillDrawingLayerPair0_DrillType=Regular|PlotDrillDrawingLayerPair0_FileName=batt_ctrl_pcb_v2.1.GD1|PlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|PlotDrillDrawingLayerPair0_LowLayer=Top Layer|PlotDrillGuideLayerPair0_Backdrill=False|PlotDrillGuideLayerPair0_Checked=True|PlotDrillGuideLayerPair0_DrillType=Regular|PlotDrillGuideLayerPair0_FileName=batt_ctrl_pcb_v2.1.GG1|PlotDrillGuideLayerPair0_HighLayer=Bottom Layer|PlotDrillGuideLayerPair0_LowLayer=Top Layer|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UserLayerName.Caption0=batt_ctrl_pcb_v2.1.GBO|UserLayerName.Caption1=batt_ctrl_pcb_v2.1.GTP|UserLayerName.Caption10=batt_ctrl_pcb_v2.1.GM1|UserLayerName.Caption11=batt_ctrl_pcb_v2.1.GBL|UserLayerName.Caption12=batt_ctrl_pcb_v2.1.GM8|UserLayerName.Caption13=batt_ctrl_pcb_v2.1.GM15|UserLayerName.Caption14=batt_ctrl_pcb_v2.1.GTL|UserLayerName.Caption15=batt_ctrl_pcb_v2.1.GKO|UserLayerName.Caption2=batt_ctrl_pcb_v2.1.GTO|UserLayerName.Caption3=batt_ctrl_pcb_v2.1.GTS|UserLayerName.Caption4=batt_ctrl_pcb_v2.1.GM13|UserLayerName.Caption5=batt_ctrl_pcb_v2.1.GM2|UserLayerName.Caption6=batt_ctrl_pcb_v2.1.GPT|UserLayerName.Caption7=batt_ctrl_pcb_v2.1.GPB|UserLayerName.Caption8=batt_ctrl_pcb_v2.1.GBP|UserLayerName.Caption9=batt_ctrl_pcb_v2.1.GBS|UserLayerName.Count=16|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908289|UserLayerName.Layer11=16842751|UserLayerName.Layer12=16908296|UserLayerName.Layer13=16908303|UserLayerName.Layer14=16777217|UserLayerName.Layer15=16973837|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16908290|UserLayerName.Layer6=16973848|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16973833|UserLayerName.Layer9=16973835|DocumentPath=D:\Users\Pavel\Documents\Embedded\sparta_ion\ion2\HW\BATT_ctrl_v2.1\batt_ctrl_pcb_v2.1.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1244,62 +1334,70 @@ MatchStrictly2=1
 PhysicalNamingFormat=$ComponentPrefix$ComponentIndex.$ChannelIndex
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
-UniqueIDPath0=\ONJVCAOI\HTDEJKCM
-DocumentName0=ME3116_5V.SchDoc
-IsEnabled0=0
+UniqueIDPath0=
+DocumentName0=top_sheet.SchDoc
+IsEnabled0=1
 SelectionScope0=All
-Order0=15
+Order0=13
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\ONJVCAOI\AZQDEAZP
-DocumentName1=ME3116_5V.SchDoc
-IsEnabled1=0
+UniqueIDPath1=\QHKXKSPZ
+DocumentName1=data_interface.SchDoc
+IsEnabled1=1
 SelectionScope1=All
-Order1=11
+Order1=14
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=
-DocumentName2=top_sheet.SchDoc
-IsEnabled2=1
+UniqueIDPath2=\ONJVCAOI\AZQDEAZP
+DocumentName2=ME3116_5V.SchDoc
+IsEnabled2=0
 SelectionScope2=All
-Order2=13
+Order2=11
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\FFJXYPIZ
-DocumentName3=LTC6804-2_BMS_TR.SchDoc
+UniqueIDPath3=\ONJVCAOI
+DocumentName3=power.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=16
+Order3=12
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=
-UniqueIDPath4=\ONJVCAOI
-DocumentName4=power.SchDoc
+UniqueIDPath4=\URVBZPTD
+DocumentName4=indication.SchDoc
 IsEnabled4=1
 SelectionScope4=All
-Order4=12
+Order4=17
 IndexEnabled4=0
 IndexStartValue4=1
 Suffix4=
-UniqueIDPath5=\QHKXKSPZ
-DocumentName5=data_interface.SchDoc
-IsEnabled5=1
+UniqueIDPath5=\UADOXXIT
+DocumentName5=ESP32_WROOM2.SchDoc
+IsEnabled5=0
 SelectionScope5=All
-Order5=14
+Order5=9
 IndexEnabled5=0
 IndexStartValue5=1
 Suffix5=
-UniqueIDPath6=\UADOXXIT
-DocumentName6=ESP32_WROOM2.SchDoc
-IsEnabled6=0
+UniqueIDPath6=\FFJXYPIZ
+DocumentName6=LTC6804-2_BMS_TR.SchDoc
+IsEnabled6=1
 SelectionScope6=All
-Order6=9
+Order6=16
 IndexEnabled6=0
 IndexStartValue6=1
 Suffix6=
+UniqueIDPath7=\ONJVCAOI\HTDEJKCM
+DocumentName7=ME3116_5V.SchDoc
+IsEnabled7=0
+SelectionScope7=All
+Order7=15
+IndexEnabled7=0
+IndexStartValue7=1
+Suffix7=
 
 [PrjClassGen]
 CompClassManualEnabled=0
