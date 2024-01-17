@@ -18,3 +18,5 @@ ion2/HW/BLDC_ctrl/Project*
 Gerbers/
 __*/
 ion2/WinMonitor*
+.vs/
+*Output*/
