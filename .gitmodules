@@ -1,0 +1,6 @@
+[submodule "ion2/batt_ctrl"]
+	path = ion2/batt_ctrl
+	url = https://github.com/Virviglaz/batt_ctrl.git
+[submodule "ion2/bldc_mmu_firmware"]
+	path = ion2/bldc_mmu_firmware
+	url = https://github.com/Virviglaz/e-bike_bldc_ctrl.git
