@@ -12,3 +12,5 @@ ProjectPath=BATT_ctrl_v2\BATT_ctrl2.PrjPcb
 ProjectPath=..\..\..\esp32_isoprog\esp32_isoprog.PrjPcb
 [Project6]
 ProjectPath=..\..\..\WM210E\HW\WM210E_HW\WM210E_HW.PrjPcb
+[Project7]
+ProjectPath=BATT_ctrl_v2.2\BATT_ctrl_v2.2.PrjPcb
