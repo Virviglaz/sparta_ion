@@ -151,6 +151,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FRSXSFKO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for BLDC_ctrl\Design Rule Check - mmu_pcb_v1.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=mmu_pcb_v1.2 24.03.2024 12-47-06.WAS
+DItemRevisionGUID=
+
 [DeviceSheet1]
 DocumentPath=..\..\..\..\..\altium\DeviceSheets\MPU6050.SchDoc
 ClassGenCCAutoEnabled=1
@@ -1210,27 +1218,27 @@ Order0=3
 IndexEnabled0=0
 IndexStartValue0=1
 Suffix0=
-UniqueIDPath1=\MABWIFLR
-DocumentName1=strain_amp.SchDoc
+UniqueIDPath1=
+DocumentName1=mmu_top.SchDoc
 IsEnabled1=1
 SelectionScope1=All
-Order1=5
+Order1=2
 IndexEnabled1=0
 IndexStartValue1=1
 Suffix1=
-UniqueIDPath2=
-DocumentName2=mmu_top.SchDoc
+UniqueIDPath2=\EIFZFFXA
+DocumentName2=MPU6050.SchDoc
 IsEnabled2=1
 SelectionScope2=All
-Order2=2
+Order2=4
 IndexEnabled2=0
 IndexStartValue2=1
 Suffix2=
-UniqueIDPath3=\EIFZFFXA
-DocumentName3=MPU6050.SchDoc
+UniqueIDPath3=\MABWIFLR
+DocumentName3=strain_amp.SchDoc
 IsEnabled3=1
 SelectionScope3=All
-Order3=4
+Order3=5
 IndexEnabled3=0
 IndexStartValue3=1
 Suffix3=

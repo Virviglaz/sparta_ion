@@ -1,6 +1,4 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=BATT_ctrl_v2.2\BATT_ctrl_v2.2.PrjPcb
-[Project2]
-ProjectPath=BLDC_ctrl\BLDC_ctrl.PrjPcb
+ProjectPath=BATT_ctrl_v2.3\BATT_ctrl_v2.3.PrjPcb
