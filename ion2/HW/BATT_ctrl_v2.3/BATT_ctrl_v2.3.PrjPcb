@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=0
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$ChannelIndex
@@ -242,6 +242,10 @@ DItemRevisionGUID=
 
 [GeneratedDocument2]
 DocumentPath=batt_ctrl_pcb_v2.3 21.03.2024 22-08-36.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for BATT_ctrl_v2.3\Net Status - batt_ctrl_pcb_v2.html
 DItemRevisionGUID=
 
 [DeviceSheet1]
