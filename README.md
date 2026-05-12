@@ -1,40 +1,30 @@
-Open Source Sparta ION
-=============
-There's a bunch of (Dutch) blog posts that go with this: (http://infant.tweakblogs.net/blog/cat/2875)
+# Sparta ION Repair & Restoration Project
 
-This repository contains the following:
+This project is a functional, production-ready fork of the [InfantEudora/sparta_ion](https://github.com) repository.
 
- folder       |  descr
---------------|-------------------------------------------------------------
- eagle        | All relevant eagle files, BOM lists.
- ion_firmware | AVR Studio projects for the different kinds of firmware.
- ion_software | Software for testing, or uploading hex files.
- lib          | Files used in either firmware or software.
- lib_ion      | Files used for Sparta ION specific code.
+## Overview
 
-All files in this repository are released under GNU GPLv3 (https://www.gnu.org/copyleft/gpl.html)
+This repository implements a custom approach to repairing and restoring the functionality of all generations of the e-bikes popular in the Netherlands that feature the iconic **"banana-shaped" battery** and a **rear hub motor** (e.g., Sparta ION, Batavus, Koga).
 
-Software used:
-----------------
- - Atmel Studio 6.1.2440 - BETA (http://www.atmel.com/microsite/atmel_studio6/)
- - GCC 4.9.2
- - Windows: Cygwin(https://cygwin.com/install.html)
- - Eagle 6.1.0 (http://www.cadsoftusa.com/)
+## What's Inside
 
-Firmware:
-----------------
+Everything needed to replicate or repair the electronics is included:
 
-The firmware running your bike's motor, consists of three parts:
- - A bootloader, started on powerup.
- - The actual firmware, called application executed by the bootloader.
- - Configuration memory, stored in ROM.
+*   **Schematics:** Detailed circuit diagrams.
+*   **PCB Files:** Design files ready for manufacturing (Gerber files).
+*   **Firmware:** Source code and binaries for the microcontrollers.
+*   **Documentation:** Step-by-step instructions for assembly, flashing, and system configuration. (in progress)
 
-The bootloader uses two blocks to identify the harware it's running on, and what firmware should be loaded.
-The firware uses one block to read/write settings, which are currently the strain gauge calibration.
+## Getting Started
 
-If you wan't to build a control PCB, use the latest revision of 3phasecntrl.
+1.  Review the **ion2\HW** to understand the hardware modifications.
+2.  Order PCBs using the provided files in the `ion2\HW\BATT_ctrl_v3\Gerbers3.4` directory.
+3.  Flash the microcontrollers using the code in the `ion2\batt_ctrl` and `ion2\bldc_mmu_firmware` folders.
+4.  Follow the **ion2\docs** for final installation and tuning.
 
-New Hardare Revision Wishlist:
- - Crystal
- - ESD protection on HALL input. (REV2)
+## Acknowledgments
+
+This work is based on the original research and development found in the [sparta_ion](https://github.com) project.
+![alt text](https://github.com/Virviglaz/sparta_ion/blob/master/ion2/docs/bike.jpg)
+
 
